@@ -1,0 +1,12 @@
+class Car
+{
+ static int car_cost=200000;
+ static String mod_name="maruti alto";
+ static String type="petrol";
+  public static void main(String []args)
+  {
+   System.out.println("car cost is"+car_cost);
+   System.out.println("model name is"+mod_name);
+   System.out.println("fuel type is"+type);
+   }
+}

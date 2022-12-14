@@ -1,0 +1,12 @@
+class Laptop
+{
+ static String lap_name="hp";
+ static String lap_brand="pavilion";
+ static int cost=60000;
+  public static void main(String []args)
+  {
+   System.out.println("laptop name is"+lap_name);
+   System.out.println("laptop brand is"+lap_brand);
+   System.out.println("cost is"+cost);
+   }
+}

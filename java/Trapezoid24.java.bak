@@ -1,0 +1,19 @@
+class Tester5
+{
+static int area()
+{
+	int a=7;
+	int b=8;
+	int h=9;
+	double res=0.5*(a+b)*h;
+return res;
+}
+}
+class Trapezoid24
+{
+public static void main (String[] args)
+{ 
+double y=Tester5.area();
+System.out.println(y);
+}
+}

@@ -1,0 +1,12 @@
+class School
+{
+ static String schl_name="Adarsha school";
+ static char schl_grade='A';
+ static int strength=2000;
+  public static void main(String []args)
+  {
+   System.out.println("school name is"+schl_name);
+   System.out.println("school grade"+schl_grade);
+   System.out.println("strength is"+strength);
+   }
+}

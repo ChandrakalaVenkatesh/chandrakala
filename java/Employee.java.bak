@@ -1,0 +1,12 @@
+class Employee
+{
+ static int empl_id=1732;
+ static int empl_salary=30000;
+ static char grade='A';
+  public static void main(String []args)
+  {
+   System.out.println("employee id is"+empl_id);
+   System.out.println("salary is"+empl_salary);
+   System.out.println("grade"+grade);
+   }
+}

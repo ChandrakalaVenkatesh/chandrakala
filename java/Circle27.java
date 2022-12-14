@@ -1,0 +1,14 @@
+class Circle27
+{
+double area(int r)
+{
+double res=3.14*r*r;
+System.out.println(res);
+return res;
+}
+public static void main (String[]args)
+{
+Circle27 a=new Circle27();
+a.area(4);
+}
+}

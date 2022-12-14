@@ -1,0 +1,12 @@
+class Television
+{
+ static String tv_brand="Adarsha school";
+ static String tv_type="Android";
+ static int tv_cost=52000;
+  public static void main(String []args)
+  {
+   System.out.println("tv brand is"+tv_brand);
+   System.out.println("tv type is"+tv_type);
+   System.out.println("tv price is"+tv_cost);
+   }
+}

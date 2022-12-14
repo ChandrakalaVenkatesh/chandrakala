@@ -1,0 +1,15 @@
+class Square144
+{
+public  static int area()
+{
+   int a=4;
+   int res=a*a;
+   return res;
+}
+}
+class Square145
+{
+  public static void main(String[]args)
+  System.out.println(Square144.area());
+}
+}

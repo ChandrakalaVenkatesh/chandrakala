@@ -1,0 +1,16 @@
+class Ellipse3
+{
+static double area()
+{ 
+    double b=5.6;
+	double a=4.2;
+	final double pi=3.142;
+	double A=pi*a*b;
+	return A;
+}
+public static void main(String[] args)
+{
+double y=area();
+System.out.println(y);
+}
+}

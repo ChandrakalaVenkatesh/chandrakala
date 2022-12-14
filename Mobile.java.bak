@@ -1,0 +1,12 @@
+class Mobile
+{
+static int mobile_cost="15000";
+static String model name="POCO M3";
+static String colour="Jet black";
+  public static void main(String [] args)
+  {
+  System.out.println("mobile cost is"+mobile_cost);
+  System.out.println("model name is"+model name);
+  System.out.println("colour is"+colour);
+}
+}

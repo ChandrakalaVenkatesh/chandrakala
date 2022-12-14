@@ -1,0 +1,15 @@
+class Paralellogram3
+{
+static int area()
+{
+	int w=12;
+	int h=14;
+	int A=w*h;
+	return A;
+}
+public static void main(String[] args)
+{
+int y=area();
+System.out.println(y);
+}
+}

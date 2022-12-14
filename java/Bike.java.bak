@@ -1,0 +1,12 @@
+class Bike
+{
+ static String bike_brand="Honda activa";
+ static String bike_colour="white";
+ static int bike_cost=100000;
+  public static void main(String []args)
+  {
+   System.out.println("bike brand is"+bike_brand);
+   System.out.println("bike colour is"+bike_colour);
+   System.out.println("bike cost is"+bike_cost);
+   }
+}
