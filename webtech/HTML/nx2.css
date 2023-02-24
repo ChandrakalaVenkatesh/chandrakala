@@ -1,3 +1,16 @@
 body{
     background-image: url(https://www.filmibeat.com/img/2021/12/netflix11-1639468647.jpg);
 }
+button{
+    float: right;
+}
+h1,h4,h6{
+text-align: center;
+color: antiquewhite;
+}
+h1{
+padding-top: 200px;
+}
+h4,h6{
+    padding-bottom: 2px;
+}

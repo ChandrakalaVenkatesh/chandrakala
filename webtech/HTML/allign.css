@@ -1,0 +1,17 @@
+h1{
+margin: 200px;
+padding: 200px;
+text-align: center;
+border: 10px solid chartreuse;
+outline: 12px solid chocolate;
+border-radius: 190px;
+}
+.a{
+border-top-left-radius: 200px;
+border-top-right-radius: 200px;
+border: 2px solid blue;
+border-bottom-left-radius: 200px;
+border-bottom-right-radius: 200px;
+height: 500px;
+width: 600px;
+}

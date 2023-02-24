@@ -1,0 +1,16 @@
+h1{
+    background-color: brown;
+}
+
+h1:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-shadow:20px 20px 1px yellow;
+}
+.a{
+    height: 600px;
+    width: 450px;
+    border: 45px;
+    border-radius: 70%;
+    background-image:linear-gradient(to right,red,green,blue,crimson);
+}

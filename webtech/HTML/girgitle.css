@@ -1,0 +1,13 @@
+.a{
+    height: 300px;
+    width: 300px;
+    border: 1px;
+    border-radius: 50%;
+    background-image: repeating-conic-gradient(yellow 20deg,blue 40deg,red 29deg);
+}
+.a:hover{
+    animation: chandu 1s infinite;
+}
+@keyframes chandu{
+    100%{ transform: rotate(360deg);}
+}

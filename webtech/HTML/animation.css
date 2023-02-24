@@ -1,0 +1,12 @@
+.x{
+    margin: 300px;
+    padding: 100px;
+    border: 10px solid red;
+    background-color: blue;
+    animation: xyz 4s infinite;
+    color: darkgreen;
+}
+@keyframes xyz{
+    50%{transform: rotateX(180deg);}
+    75%{transform: rotateY(120deg);}
+}

@@ -1,0 +1,37 @@
+.img1:hover{
+    filter: contrast(80%);
+    filter: hue-rotate(90deg);
+    transform: scale(1.1);
+}
+.img2:hover{
+    filter: contrast(80%);
+    filter: hue-rotate(50deg);
+    transform: scale(1.1);
+
+}
+.img3:hover{
+    filter: contrast(80%);
+    filter:hue-rotate(40deg);
+    transform: scale(1.1);
+}
+
+.f{
+    padding-left: 100px;
+}
+#total{
+    width: 200px;
+    height: 20px;
+    border: 2px solid brown;
+
+}
+#total1{
+    width: 200px;
+    height: 20px;
+    border: 2px solid brown;
+}
+#total2{
+    width: 200px;
+    height: 20px;
+    border: 2px solid brown;  
+}
+

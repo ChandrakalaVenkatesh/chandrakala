@@ -1,0 +1,285 @@
+ul{
+    display: flex;
+    list-style-type:none;
+    background-color:black;
+    color: burlywood;
+    padding: 20px;
+}
+body{
+    background-color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    margin-left: 100px;
+    color: cornsilk;
+}
+.c{
+    margin-left: 150px;
+background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(206, 45, 45);
+}
+.home{
+    background-image: url(https://wallpaperaccess.com/full/3014601.jpg);
+}
+
+a{
+    text-decoration: none;
+    margin-left: 80px;
+    color: blue;
+}
+.d{
+    margin-left: 80px;
+    border: 20px;
+    border-color: black;
+    border-radius: 20px;
+}
+.e{
+    margin-left: 120px;
+    background-color: blue;
+    border: 6px;
+    border-color: black;
+    border-radius: 20px;
+}
+.about{
+  display: flex;
+  background-color:cyan;
+  background-size: 120%; 
+}
+h1{
+    color: darkgrey;
+}
+.p{
+    color: floralwhite;
+    font-size: medium;
+}
+.a2{
+    padding-left: 500px;
+}
+.p3{
+    background-color: black;
+}
+p{
+    color: goldenrod;
+}
+
+.ac{
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: indigo;
+}
+
+.abc{
+    display: flex;
+    background-color: black;
+}
+.ac:hover{
+ background-color: rgb(150, 89, 66);
+}
+.page41{
+    background-color:black;
+}
+.page4{
+    background-color: black;
+}
+.menu{
+    display: flex;
+    background-color: black;
+}
+
+.content 1{
+    color: azure;
+}
+.content 2{
+    color: azure;
+}
+.menu2{
+    display: flex;
+    background-color: black;
+}
+.menu3{
+    display: flex;
+    background-color: black;
+}
+
+.content 3{
+    color: azure;
+}
+.menu4{
+    display: flex;
+    background-color: black;
+}
+.content 4{
+    color: azure;
+}
+.menus1{
+    display: flex;
+    background-color: black;
+}
+.contents1{
+    color: azure;
+}
+.menus2{
+    display: flex;
+    background-color: black;
+}
+.contents2{
+    color: azure;
+}
+.menus3{
+    display: flex;
+    background-color: azure;
+}
+.contents3{
+    color: azure;
+}
+.menus4{
+    display: flex;
+    background-color:black;
+}
+.contents4{
+    color: azure;
+}
+.page4{
+    display: flex;
+}
+.s5{
+    margin-left: 100px;
+}
+.page5{
+    background-color:rgb(148, 66, 224);
+}
+
+.gallery1{
+    display: flex;
+}
+.gallery2{
+    display: flex;
+}
+.p4{
+    background-color: rgb(8, 8, 99);
+}
+p{
+    color: blanchedalmond:aliceblue
+
+}
+
+.img1{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+.img11{
+    height: 400px;
+    width: 400px;
+    transition: height 2s,width 2s;
+}
+.img11:hover{
+    height: 450px;
+    width: 450px;
+
+
+}
+.img2{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+.img21{
+    height: 400px;
+    width: 400px;
+    transition: height 2s,width 2s;
+}
+.img21:hover{
+    height: 450px;
+    width: 450px;
+}
+.img3{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+.img31{
+    height: 400px;
+    width: 400px;
+    transition: height 2s,width 2s;
+
+}
+.img31:hover{
+    height: 450px;
+    width: 450px;
+}
+.img4{
+    height: 400px;
+    width: 400px;
+    transition: height 2s,width 2s;
+
+}
+.img41:hover{
+ height: 450px;
+ width: 450px;
+
+}
+
+.img5{
+    height: 400px;
+    width: 400px;
+    transition: height 2s,width 2s;
+
+}
+.img51:hover{
+ height: 450px;
+ width: 450px;
+
+
+}
+.img6{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+.img61{
+    height: 400px;
+    width: 400px;
+    transition: height 2s,width 2s;
+
+}
+.img61:hover{
+    height: 450px;
+    width: 450px;
+
+}
+.img7{
+    height: 400px;
+    width: 400px;
+    transition: height 2s,width 2s;
+
+}
+.img71:hover{
+    height: 450px;
+    width: 450px;
+}
+.img8{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+.img81{
+    height: 450px;
+    width: 450px;
+    transition: height 2s,width 2s;
+
+
+}
+.img81:hover{
+    height: 450px;
+    width: 450px;
+
+}
+.f{
+    margin-bottom: 100px;
+}
+
+

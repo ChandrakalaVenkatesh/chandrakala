@@ -1,0 +1,17 @@
+.a{
+    margin: 300px;
+    padding: 100px;
+    border: 10px solid red;
+    background-color: blue;
+    transform: rotate(130deg);
+}
+.b{
+    transform: skew(124deg);
+}
+.c{
+    margin: 300px;
+    padding: 100px;
+    border: 10px solid red;
+    background-color: blue;
+    transform: scaleY(3);
+}

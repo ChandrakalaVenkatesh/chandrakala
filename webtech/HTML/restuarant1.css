@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1018141890/photo/two-empty-wine-glasses-sitting-in-a-restaurant-on-a-warm-sunny-afternoon.jpg?s=612x612&w=0&k=20&c=OccJv1oKWSTDqJ6Irw7iW1NEbL0muU2ylqP3EOhOyEg=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home{
+    height: 600px;
+    background-color: transparent;
+    background-image: url(https://t3.ftcdn.net/jpg/02/64/56/12/360_F_264561269_1mqyjnbiCcTSELOVhoGIen8qDbGUDKm4.jpg);
+     color: rgb(42, 42, 124);
+     padding-top: 200px;
+     padding-right: 50px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+    margin-top: 50px;
+    align-items: center;
+}
+.a{
+    font-size: 50px;
+    color: bisque;
+}
+.about{
+    display: flex;
+    background-color:black;
+    background-size: cover;
+    color: bisque; 
+  }
+  h1{
+      color: darkgrey;
+  }
+  .p{
+      color: floralwhite;
+      font-size: medium;
+      background-color: black;
+      padding-right: 100px;
+      padding-bottom: 50px;
+  }
+  .a2{
+      padding-left: 500px;
+  }
+  .p3{
+    background-color: black;
+}
+p{
+    color: goldenrod;
+}
+
+.ac{
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: indigo;
+}
+
+.abc{
+    display: flex;
+    background-color: black;
+}
+.ac:hover{
+ background-color: rgb(150, 89, 66);
+}
